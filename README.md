@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yellowspark&label=Profile%20views&color=0e75b6&style=flat" alt="yellowspark" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yellowspark" alt="yellowspark" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/dev__ish" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dev__ish?logo=twitter&style=for-the-badge" alt="https://twitter.com/dev__ish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dev__ish" target="blank"><img src="https://img.shields.io/twitter/follow/dev__ish?logo=twitter&style=for-the-badge" alt="dev__ish" /></a> </p>
 
 - 💬 Ask me about **C#, ANGULAR, ASP.NET CORE, MONGODB**
 
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/dev__ish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dev__ish" height="30" width="40" /></a>
+<a href="https://twitter.com/dev__ish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev__ish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devish-tiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devish-tiwari/" height="30" width="40" /></a>
 </p>
 
